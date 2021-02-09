@@ -1,4 +1,12 @@
 this is first modify 
 line 2
 line 3 
-line 4
+line 4 
+line 1 in feature 1
+second line added in feature 1
+-- end of dev
+
+
+
+
+
