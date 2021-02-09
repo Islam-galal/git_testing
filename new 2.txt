@@ -5,3 +5,5 @@ line 4
 
 line 1 in feature 1
 second line added in feature 1
+
+-- end of dev
